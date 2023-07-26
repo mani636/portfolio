@@ -4,7 +4,7 @@ import css from '../assets/CSS.png';
 import javascript from '../assets/JAVASCRIPT.png';
 import reactImage from '../assets/REACT.png';
 import tailwind from '../assets/TAILWIND.png';
-import nextjs from '../assets/NEXT JS.png';
+import github from '../assets/GITHUB.png';
 
 const Skills = () => {
   const images = [
@@ -40,9 +40,9 @@ const Skills = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: 'Next JS',
-      style: 'shadow-white',
+      src: github,
+      title: 'GitHub',
+      style: 'shadow-gray-400',
     },
   ];
 

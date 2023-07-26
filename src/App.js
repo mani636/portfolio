@@ -5,16 +5,18 @@ import SocialLinks from './components/SocialLinks';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Skills from './components/Skills';
+import Contact from './components/Contact';
 
 const App = () => {
   return (
     <div>
       <NavBar />
       <Home />
-      <SocialLinks />
       <About />
       <Portfolio />
       <Skills />
+      <Contact />
+      <SocialLinks />
     </div>
   );
 };
