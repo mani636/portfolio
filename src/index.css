@@ -11,3 +11,9 @@
     font-family: 'Raleway', sans-serif;
   }
 }
+
+.card-container {
+  width: 660px;
+  display: flex;
+  gap: 1rem;
+}

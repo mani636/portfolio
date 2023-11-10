@@ -13,17 +13,20 @@ const About = () => {
           </p>
         </div>
         <p className='text-xl mt-20'>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt at
-          tenetur quibusdam est, iure impedit, fuga temporibus accusantium ut
-          fugit culpa earum quidem magnam enim facilis illo molestias? Nostrum,
-          ipsa!
+          ⚡I have completed my Bachelor Degree in Dr.N.G.P Arts and Science
+          College and am an aspiring Front End developer. <br /> <br />
+          ⚡I have a deep understanding of various web technologies such as{' '}
+          <b>HTML, CSS, JavaScript and React JS</b>.<br />
         </p>
         <br />
         <p className='text-xl'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-          necessitatibus dolorem in dicta debitis voluptates facilis quam
-          perspiciatis dolores tempora laudantium earum magnam praesentium quo
-          soluta, autem repellat, ab esse?
+          ⚡I am dedicated to keeping up with the latest trends and techniques
+          in web development, and I am constantly learning and expanding my
+          skill set. I have a keen eye for detail and strive for perfection in
+          every project I work on. <br />
+          <br />
+          ⚡It is not my job, but also my passion.I have being able to learn
+          something everyday by engaging in experiments and working on projects.
         </p>
       </div>
     </div>
